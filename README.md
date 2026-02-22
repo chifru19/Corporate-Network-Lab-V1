@@ -33,4 +33,4 @@ A full-stack enterprise network simulation built in Cisco Packet Tracer featurin
 ### Password Encryption
 ```bash
 service password-encryption  # Scrambles plain-text passwords in config
->>>>>>> 58e3f12ed92dee21d97bb27e0353637f3e0d38aa
+>>>> 58e3f12ed92dee21d97bb27e0353637f3e0d38aa
